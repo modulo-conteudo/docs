@@ -1,0 +1,4 @@
+Meta 8
+======
+
+Desenvolvimento do sistema de ajuda e de um manual acessível (incluindo libras) para uso dos aplicativos.

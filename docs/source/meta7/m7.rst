@@ -1,0 +1,4 @@
+Meta 7
+======
+
+Desenvolver, a partir da pesquisa realizada na Meta 1, integrador de conteúdo acessível: permite adaptar objetos de aprendizagem/avaliação textual (pdf, doc, etc.), para que sigam diretrizes de documentos acessíveis, e apontar requisitos quando a conversão não for possível. O aluno tem acesso ao documento de acordo com sua necessidade/desejo (texto ou áudio; formatação com base no perfil determinado no customizador).

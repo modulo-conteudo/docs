@@ -1,14 +1,45 @@
-.. modulo-conteudo-docs documentation master file, created by
-   sphinx-quickstart on Thu Apr 16 15:40:28 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. include:: ./README.rst
 
-Welcome to modulo-conteudo-docs's documentation!
-================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   :caption: Atividade 4:
+
+  meta4/m4.rst
+
+
+.. toctree::
+  :maxdepth: 2
+  :numbered:
+  :caption: Atividade 7:
+
+ meta4/m7.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+   :caption: Atividade 8:
+
+  meta8/m8.rst
+
+.. toctree::
+  :maxdepth: 2
+  :numbered:
+  :caption: Atividade 9:
+
+ meta9/m9.rst
+
+.. toctree::
+  :maxdepth: 2
+  :numbered:
+  :caption: Atividade 10:
+
+ meta10/m10.rst
+
+.. toctree::
+  :maxdepth: 2
 
 
 
