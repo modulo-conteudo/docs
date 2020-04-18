@@ -3,35 +3,34 @@
 .. toctree::
   :maxdepth: 4
   :numbered:
-  :caption: Atividade 4
+  :caption: Tela de login
 
-  meta4/m4.rst
-  meta4/intro.rst
+  tela_login/intro.rst
+  
+.. toctree::
+  :maxdepth: 4
+  :numbered:
+  :caption: Tela principal (Aulas)
+
+  tela_principal/intro.rst
 
 .. toctree::
   :maxdepth: 4
   :numbered:
-  :caption: Atividade 7:
+  :caption: Arquivos e conteúdos
 
-  meta7/m7.rst
-
-.. toctree::
-  :maxdepth: 4
-  :numbered:
-  :caption: Atividade 8:
-
-  meta8/m8.rst
+  arquivos/intro.rst
 
 .. toctree::
   :maxdepth: 4
   :numbered:
-  :caption: Atividade 9:
+  :caption: Central de Ajuda
 
-  meta9/m9.rst
+  ajuda/intro.rst
 
 .. toctree::
   :maxdepth: 4
   :numbered:
-  :caption: Atividade 10:
+  :caption: Central de configuração
 
-  meta10/m10.rst
+  config/intro.rst

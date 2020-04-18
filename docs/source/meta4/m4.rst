@@ -1,5 +1,0 @@
-=======
-Meta 4
-=======
-
-Desenvolver, a partir da pesquisa realizada na Meta 1, aplicativo para configurar preferências de acessibilidade do Android (volume, retorno tátil, etc). Entrada e saída de comandos de voz, símbolo ou avatar de acordo com diretrizes piloto . Baseado em aplicativo feito pelos proponentes
