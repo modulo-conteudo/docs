@@ -6,7 +6,7 @@
   :caption: Tela de login
 
   tela_login/intro.rst
-  
+
 .. toctree::
   :maxdepth: 4
   :numbered:
@@ -34,3 +34,10 @@
   :caption: Central de configuração
 
   config/intro.rst
+  config/bold.rst
+  config/inv_c.rst
+  config/vbr.rst
+  config/viz_btn_libr.rst
+  config/tam_let.rst
+  config/cores.rst
+  config/outrora.rst
