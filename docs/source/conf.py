@@ -22,7 +22,7 @@ copyright = '2020, Gabriel Trettel e Wesley Pereira'
 author = 'Gabriel Trettel e Wesley Pereira'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -68,7 +68,7 @@ numfig = True
 #
 # html_theme = 'alabaster'
 html_theme_options = {
-    'prev_next_buttons_location': 'bottom',
+    'prev_next_buttons_location': 'both',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

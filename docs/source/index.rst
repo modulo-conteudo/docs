@@ -28,6 +28,8 @@
   :caption: Central de Ajuda
 
   ajuda/intro.rst
+  ajuda/video.rst
+  ajuda/image.rst
 
 .. toctree::
   :maxdepth: 4

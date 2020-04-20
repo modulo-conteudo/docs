@@ -18,3 +18,9 @@ Escolhas de projeto
 ===================
 
 Foi verificado em análise com usuários com dificuldades de visão que selecionar certos tipos de informação por meio de `switches <https://material.io/components/selection-controls#switches>`_ pode ser difícil em alguns momentos. Por isso, preferimos adotar uma abordagem com botões que navegam em telas separadas; cada uma tendo o seu conteúdo de escolha. Assim garantimos que todos os usuários terão uma boa experiência de utilização.
+
+
+O que precisa ser feito
+=======================
+
+Em todas as opções de configuração e na central, implementar a funcionalidade do botão libras.
