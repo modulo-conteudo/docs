@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'modulo-conteudo-docs'
+project = 'Módulo Conteúdo'
 copyright = '2020, Gabriel Trettel e Wesley Pereira'
 author = 'Gabriel Trettel e Wesley Pereira'
 

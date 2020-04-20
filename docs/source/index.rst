@@ -44,3 +44,9 @@
   config/tam_let.rst
   config/cores.rst
   config/outrora.rst
+
+
+Código fonte
+============
+
+Todo o código fonte do aplicativo é aberto e licenciado sob a `GPLv3 <https://github.com/modulo-conteudo/modulo-conteudo/blob/master/LICENSE>`_, que pode ser acessado pelo repositorio no `GitHub <https://github.com/modulo-conteudo/modulo-conteudo>`_
